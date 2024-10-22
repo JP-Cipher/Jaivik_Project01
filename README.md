@@ -1,4 +1,4 @@
-# PRODIGY_WD_01
+# Jaivik_project01
 ## Responsive Landing Page
 ---
 # Plantify  - Responsive Plant-Based Landing Page
